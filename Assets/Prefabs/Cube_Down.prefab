@@ -64,8 +64,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 15de0edb220994aa1b57eaea650b7433, type: 2}
-  - {fileID: 2100000, guid: 113476be68ad2ce41883f43a13ce9605, type: 2}
+  - {fileID: 2100000, guid: 08b7b4dfa412efb42b9c8330296638aa, type: 2}
+  - {fileID: 2100000, guid: b69e0ec655e117b4fb1bcdb6d2f24bde, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -372,7 +372,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: e470e701c82704845a9a67426af9a0c5, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 081a511a3a9e90940a6e388405c224a8, type: 2}
+      objectReference: {fileID: 2100000, guid: 7eb989769e6adec4387b4389a89ed9d0, type: 2}
     - target: {fileID: 919132149155446097, guid: e470e701c82704845a9a67426af9a0c5, type: 3}
       propertyPath: m_Name
       value: Cube_Specular
